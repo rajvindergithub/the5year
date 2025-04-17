@@ -1,0 +1,98 @@
+body{
+    background: #000000;
+    font-family: 'General Sans'; 
+}
+
+#banner{
+    .banner-h-s{   margin-top: 250px; ; 
+        .b-heading
+        {
+            h1{
+                font-family: General Sans;
+                    font-weight: 400;
+                    font-size: 50px;
+                    line-height: 110.00000000000001%;
+                    letter-spacing: 0%;
+                    color: #FFFFFF;
+            }
+        }
+    }
+    .b-h-cta{ margin: 40px 0px 40px 0px; 
+        a{
+            border: 2px solid #FFF; border-radius: 78.42px; color: #FFF;  font-family: General Sans;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 160%;
+            letter-spacing: 0%;
+            text-align: center;
+            vertical-align: middle;
+            padding: 20px 80px 20px 40px; 
+            
+ 
+        }
+    }
+    
+    .banner-trust-prop{ margin-left: -40px; margin-top: 200px; 
+        ul{ list-style: none; display: flex; gap: 20px; align-items: center; }
+    }
+}
+
+
+#elite-trader{ margin-top: 250px; 
+    .e-t-heading{
+        h2{
+            font-family: General Sans;
+            font-weight: 400;
+            font-size: 50px;
+            line-height: 110.00000000000001%;
+            letter-spacing: 0%;
+            text-align: center;
+            vertical-align: middle;
+            color: #FFFFFF;
+
+        }
+    }
+    .e-t-s-h{
+        font-family: Cabinet Grotesk;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0%;
+        text-align: center;
+        vertical-align: middle;
+        color: #DDFD6C;
+
+    }
+    
+    .et-block{ text-align: center; margin-top: 50px;  
+        
+        .et-b-img{
+            margin-bottom: 20px; 
+        }
+    
+        .et-b-h{
+            h3{
+                font-family: General Sans;
+                font-weight: 600;
+                font-size: 30px;
+                line-height: 130%;
+                letter-spacing: 2px;
+                text-align: center;
+                vertical-align: middle;
+                text-transform: capitalize; color: #FFF; margin-bottom: 20px; 
+            }
+        }
+        .et-b-s-h{
+            font-family: General Sans;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 160%;
+            letter-spacing: 2%;
+            text-align: center;
+                color: #FFF; 
+        }
+    
+    }
+}
+
+
